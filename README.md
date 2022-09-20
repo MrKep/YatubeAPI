@@ -8,7 +8,7 @@
 
 ## Техническое описание проекта YaMDb
 
-# Стек: Python, Django, DRF, Simple JWT, Docker
+## Стек: Python, Django, DRF, Simple JWT, Docker
 
 ### Пользовательские роли
 
