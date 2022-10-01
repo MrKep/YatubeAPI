@@ -85,14 +85,7 @@ docker-compose exec web python manage.py migrate
 ```
 winpty docker-compose exec web python manage.py createsuperuser
 ```
-Заполнение базы данных:
-В директории /api_yamdb/static/data подготовлены несколько файлов в формате csv с контентом для ресурсов Users, Titles, Categories, Genres, Review и Comments. Заполните базу данных контентом из приложенных csv-файлов.
 
-Для этого выполните команду:
-
-```
-docker-compose exec web python manage.py commandcsv
-```
 ### Документация:
 
 Документация к проекту доступна по адресу:
